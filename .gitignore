@@ -7,3 +7,6 @@
 build/
 */build/
 out/
+
+# Node Modules
+node_modules
